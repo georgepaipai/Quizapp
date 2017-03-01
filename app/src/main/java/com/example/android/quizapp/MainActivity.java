@@ -47,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
         /**
          * Displays the Final score
          */
